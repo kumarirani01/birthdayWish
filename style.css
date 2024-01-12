@@ -10,7 +10,7 @@ img {
     height: 20%; /* Maintain aspect ratio */
     position: relative;
     top: 10%;
-    left: 0;
+    left: 10%;
 }
 
 p {
